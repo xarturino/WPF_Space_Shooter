@@ -1,0 +1,14 @@
+C:\Users\roman\Desktop\space_shoot\space_shooter_game\space_shooter_game\bin\Debug\space_shooter_game.exe.config
+C:\Users\roman\Desktop\space_shoot\space_shooter_game\space_shooter_game\bin\Debug\space_shooter_game.exe
+C:\Users\roman\Desktop\space_shoot\space_shooter_game\space_shooter_game\bin\Debug\space_shooter_game.pdb
+C:\Users\roman\Desktop\space_shoot\space_shooter_game\space_shooter_game\obj\Debug\space_shooter_game.csprojAssemblyReference.cache
+C:\Users\roman\Desktop\space_shoot\space_shooter_game\space_shooter_game\obj\Debug\MainWindow.g.cs
+C:\Users\roman\Desktop\space_shoot\space_shooter_game\space_shooter_game\obj\Debug\App.g.cs
+C:\Users\roman\Desktop\space_shoot\space_shooter_game\space_shooter_game\obj\Debug\space_shooter_game_MarkupCompile.cache
+C:\Users\roman\Desktop\space_shoot\space_shooter_game\space_shooter_game\obj\Debug\space_shooter_game_MarkupCompile.lref
+C:\Users\roman\Desktop\space_shoot\space_shooter_game\space_shooter_game\obj\Debug\MainWindow.baml
+C:\Users\roman\Desktop\space_shoot\space_shooter_game\space_shooter_game\obj\Debug\space_shooter_game.g.resources
+C:\Users\roman\Desktop\space_shoot\space_shooter_game\space_shooter_game\obj\Debug\space_shooter_game.Properties.Resources.resources
+C:\Users\roman\Desktop\space_shoot\space_shooter_game\space_shooter_game\obj\Debug\space_shooter_game.csproj.GenerateResource.cache
+C:\Users\roman\Desktop\space_shoot\space_shooter_game\space_shooter_game\obj\Debug\space_shooter_game.exe
+C:\Users\roman\Desktop\space_shoot\space_shooter_game\space_shooter_game\obj\Debug\space_shooter_game.pdb
